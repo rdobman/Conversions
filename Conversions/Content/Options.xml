@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Options>
+    <Option>
+        <ShowToolbar>false</ShowToolbar>
+        <DefaultConversion>Feet to Meters</DefaultConversion>
+    </Option>
+    <Option>
+        <ShowToolbar>true</ShowToolbar>
+        <DefaultConversion>Miles to Kilometers</DefaultConversion>
+    </Option>
+    <Option>
+        <ShowToolbar>true</ShowToolbar>
+        <DefaultConversion>Meters to Feet</DefaultConversion>
+    </Option>
+    <Option>
+        <ShowToolbar>true</ShowToolbar>
+        <DefaultConversion>Kilometers to Miles</DefaultConversion>
+    </Option>
+    <Option>
+        <ShowToolbar>false</ShowToolbar>
+        <DefaultConversion>Centimeters to Inches</DefaultConversion>
+    </Option>
+    <Option>
+        <ShowToolbar>true</ShowToolbar>
+        <DefaultConversion>Feet to Meters</DefaultConversion>
+    </Option>
+    <Option>
+        <ShowToolbar>true</ShowToolbar>
+        <DefaultConversion>Feet to Meters</DefaultConversion>
+    </Option>
+    <Option>
+        <ShowToolbar>false</ShowToolbar>
+        <DefaultConversion>Feet to Meters</DefaultConversion>
+    </Option>
+    <Option>
+        <ShowToolbar>true</ShowToolbar>
+        <DefaultConversion>Feet to Meters</DefaultConversion>
+    </Option>
+    <Option>
+        <ShowToolbar>true</ShowToolbar>
+        <DefaultConversion>Inches to Centimeters</DefaultConversion>
+    </Option>
+    <Option>
+        <ShowToolbar>false</ShowToolbar>
+        <DefaultConversion>reee to meee</DefaultConversion>
+    </Option>
+    <Option>
+        <ShowToolbar>false</ShowToolbar>
+        <DefaultConversion>Feet to Meters</DefaultConversion>
+    </Option>
+    <Option>
+        <ShowToolbar>true</ShowToolbar>
+        <DefaultConversion>Feet to Meters</DefaultConversion>
+    </Option>
+    <Option>
+        <ShowToolbar>true</ShowToolbar>
+        <DefaultConversion>Miles to Kilometers</DefaultConversion>
+    </Option>
+    <Option>
+        <ShowToolbar>true</ShowToolbar>
+        <DefaultConversion>reee to errrr</DefaultConversion>
+    </Option>
+    <Option>
+        <ShowToolbar>false</ShowToolbar>
+        <DefaultConversion>reee to errrr</DefaultConversion>
+    </Option>
+    <Option>
+        <ShowToolbar>true</ShowToolbar>
+        <DefaultConversion>reee to errrr</DefaultConversion>
+    </Option>
+    <Option>
+        <ShowToolbar>false</ShowToolbar>
+        <DefaultConversion>reee to errrr</DefaultConversion>
+    </Option>
+    <Option>
+        <ShowToolbar>true</ShowToolbar>
+        <DefaultConversion>reee to errrr</DefaultConversion>
+    </Option>
+    <Option>
+        <ShowToolbar>true</ShowToolbar>
+        <DefaultConversion>Miles to Kilometers</DefaultConversion>
+    </Option>
+    <Option>
+        <ShowToolbar>false</ShowToolbar>
+        <DefaultConversion>Me to You</DefaultConversion>
+    </Option>
+    <Option>
+        <ShowToolbar>true</ShowToolbar>
+        <DefaultConversion>Miles to Kilometers</DefaultConversion>
+    </Option>
+    <Option>
+        <ShowToolbar>false</ShowToolbar>
+        <DefaultConversion>Inches to Centimeters</DefaultConversion>
+    </Option>
+    <Option>
+        <ShowToolbar>false</ShowToolbar>
+        <DefaultConversion>Inches to Centimeters</DefaultConversion>
+    </Option>
+    <Option>
+        <ShowToolbar>true</ShowToolbar>
+        <DefaultConversion>Miles to Kilometers</DefaultConversion>
+    </Option>
+    <Option>
+        <ShowToolbar>false</ShowToolbar>
+        <DefaultConversion>Miles to Kilometers</DefaultConversion>
+    </Option>
+    <Option>
+        <ShowToolbar>true</ShowToolbar>
+        <DefaultConversion>Miles to Kilometers</DefaultConversion>
+    </Option>
+</Options>
